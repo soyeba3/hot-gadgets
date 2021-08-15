@@ -42,12 +42,13 @@ h3{
 }
 .col-md-3{
     border-radius: 10px;
-    width:160px;
-    height: 200px;
-    box-shadow: 5px 5px 10px gray;
-    margin: 0 auto;
 }
-.bag{
-    margin: 0 auto;
+.categories{
+    margin-bottom: 100px;
 }
-
+.pale-order{
+    box-shadow: none;
+}
+.beauty{
+    margin-bottom: 20px;
+}
